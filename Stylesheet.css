@@ -1,0 +1,115 @@
+body {
+    margin: auto;
+    width: 90%;
+    background-color: #ba1815;
+    padding-top: 30px;
+    padding-bottom: 170px;
+}
+
+.div {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+.div-plus {
+    margin: auto;
+    width: 84%;
+    text-align: center;
+}
+
+img {
+    width: 1100px;
+    border-radius: 3px;
+}
+
+#img-avatar {
+    width: 100px;
+    border-radius: 90px;
+    margin-top: -68px;
+    border: 8px solid #000000;
+}
+
+#p-username {
+    margin-top: -1px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#p-date {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    width: 93%;
+    margin: auto;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    width: 93%;
+    margin: auto;
+}
+
+.margin {
+    margin-top: 35px;
+}
+
+.margin-plus {
+    margin-top: 45px;
+}
+
+.span-style {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    float: left;
+    font-size: 25px;
+}
+
+.span-style-plus {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    font-size: 20px;
+}
+
+.button {
+    border: none;
+    border-radius: 5px;
+    color: black;
+    background-color: red;
+    padding: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button-plus {
+    border: none;
+    border-radius: 5px;
+    color: black;
+    background-color: #ba1815;
+    padding: 15px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
